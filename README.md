@@ -1,4 +1,4 @@
-# Analysing Product Demand to Maximise Revenue Optimization Using Linear Regression (SQL)
+# Analysing Product Demand to Maximise Revenue Optimisation Using Linear Regression (SQL)
 
 ## Problem
 Estimate demand and identify the revenue-maximizing price using historical sales data. 
